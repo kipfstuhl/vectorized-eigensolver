@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : Toolbox.hpp
-// Author      : M. Presenhuber, M. Liebmann
-// Version     : 1.0
+// Author      : J. Kipfstuhl, M. Presenhuber, M. Liebmann
+// Version     : 2.0
 // Copyright   : University of Graz
 // Description : ZLAQHRV-Algorithm
 //============================================================================
