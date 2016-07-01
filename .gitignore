@@ -1,0 +1,62 @@
+# C/C++
+
+# Object Files
+*.o
+
+# Librarys
+*.a
+*.la
+*.lo
+*.lib
+
+# Shared librarys
+*.so
+
+# Executables
+*.out
+# Programmdatei vom Makefile
+zlahqr
+zlahqr-omp
+zlahqr-cuda
+zlahqr-cuda-k20
+zlahqr-i7
+zlahqr-prof
+zlahqr-kepler
+
+# Binaries
+*.bin
+#keep binaries in testcases folder
+#!Code/testcases/*.bin #don't
+
+#profiling
+Code/callgrind.out.*
+
+# Profiling
+gmon.out
+
+#testing
+cuda-memcheck.file.*
+
+# Latex
+
+# Auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.thm
+*.synctex.gz
+
+Code/test.png
+
+# Backup/Temporary files
+*.backup
+*~
