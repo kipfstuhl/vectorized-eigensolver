@@ -42,7 +42,7 @@ There are also some support functions that make life easier.
 
 For the python test inteface type
 ```
-make python-interface
+make python
 ```
 
 Note
